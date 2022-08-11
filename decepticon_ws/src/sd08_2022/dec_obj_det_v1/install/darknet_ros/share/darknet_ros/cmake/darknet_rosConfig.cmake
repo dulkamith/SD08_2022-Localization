@@ -1,0 +1,1 @@
+/home/joker/obj_det_v1/build/darknet_ros/ament_cmake_core/darknet_rosConfig.cmake

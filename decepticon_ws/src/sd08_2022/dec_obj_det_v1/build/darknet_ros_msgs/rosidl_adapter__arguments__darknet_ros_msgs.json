@@ -1,0 +1,9 @@
+{
+  "package_name": "darknet_ros_msgs",
+  "non_idl_tuples": [
+    "/home/joker/obj_det_v1/src/darknet_ros_yolov4/darknet_ros/darknet_ros_msgs:msg/BoundingBox.msg",
+    "/home/joker/obj_det_v1/src/darknet_ros_yolov4/darknet_ros/darknet_ros_msgs:msg/BoundingBoxes.msg",
+    "/home/joker/obj_det_v1/src/darknet_ros_yolov4/darknet_ros/darknet_ros_msgs:msg/ObjectCount.msg",
+    "/home/joker/obj_det_v1/src/darknet_ros_yolov4/darknet_ros/darknet_ros_msgs:action/CheckForObjects.action"
+  ]
+}
